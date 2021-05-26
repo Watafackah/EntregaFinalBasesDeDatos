@@ -8,9 +8,9 @@ using System.Data;
 
 public class Enemy : MonoBehaviour
 {
-    public int _hp;
+    public string _hp;
     public string _name;
-    public int _level;
+    public string _level;
 
     public JObject Serialize()
     {

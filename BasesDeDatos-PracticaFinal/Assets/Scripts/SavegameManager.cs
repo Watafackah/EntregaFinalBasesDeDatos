@@ -31,6 +31,8 @@ public class SavegameManager : MonoBehaviour
 
     public void LoadGame()
     {
+        enemiesList.text = "";
+
         string filePath = Application.persistentDataPath + "/savemultipleobjects.sav";
         Debug.Log("Loading from: " + filePath);
         enemiesList.text += filePath;
