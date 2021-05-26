@@ -369,9 +369,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c61aa484a3808294fb9001c2515751ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hp: 
+  _hp: 30
   _name: Ramon
-  _level: 
+  _level: 30
 --- !u!114 &38015082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5176,9 +5176,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c61aa484a3808294fb9001c2515751ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hp: 
+  _hp: 20
   _name: Pepe
-  _level: 
+  _level: 10
 --- !u!114 &1587482123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5746,9 +5746,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c61aa484a3808294fb9001c2515751ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hp: 
+  _hp: 2
   _name: Sasuke
-  _level: 
+  _level: 46
 --- !u!114 &1790426024
 MonoBehaviour:
   m_ObjectHideFlags: 0
