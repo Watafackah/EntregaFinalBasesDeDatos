@@ -9,7 +9,7 @@ using System.Data;
 
  /// <summary>  SavegameManager.cs
  /// 
- /// El script realiza la gestión de una base de datos JSON, la cual nos permite guardar y 
+ /// El script realiza la gestión de un archivo JSON, la cual nos permite guardar y 
  /// cargar información de manera controlada y a su vez nos permite encryptar dicha información
  /// 
  /// </summary>
