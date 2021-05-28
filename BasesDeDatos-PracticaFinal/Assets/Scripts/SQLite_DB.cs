@@ -5,6 +5,14 @@ using UnityEngine.UI;   // Libreria añadida para utilizar las funciones de UI d
 using Mono.Data.Sqlite; // Libreria añadida para utilizar las funciones de SQLite
 using System.Data;
 
+/// <summary>
+/// 
+/// El script realiza diversas funciones en cuanto gestión de una base de datos SQLite
+/// Permite crear un archivo en una localización, guardarle información, mostrarla, editarla
+/// y ejecutar comandos en query desde el código de la aplicación.
+/// 
+/// </summary>
+
 public class SQLite_DB : MonoBehaviour
 {
     private string DbLocation = "URI=file:TestDatabase1.db";    // Damos una localización a la base de datos y la nombramos
